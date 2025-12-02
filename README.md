@@ -28,6 +28,7 @@ just download the run.py file into the current working directory
 - ```python run.py npm run dev```
 - ```python run.py```
 
-### contribution
+## contribution
 
-this is a  small project yet nowhere to be found. i get the result i wanted with the current state but if there was any issues or suggestions, feel welcomed to contribute.
+this is a  small project yet nowhere to be found. i get the result i wanted with the current state but if there was any issues or suggestions, feel welcomed to contribute in any programming language you know.
+tested on windows.
