@@ -11,7 +11,7 @@ it creates a ./logs folder at the current directory and makes a new txt file for
 python installed
 
 ## installation
-just download the run.py file
+just download the run.py file into the current working directory
 ## usage
 `python3 run.py [any type of command with args]`
 ### examples
