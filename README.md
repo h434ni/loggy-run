@@ -15,7 +15,7 @@ just download the run.py
 ## usage
 python3 run.py [any type of command with args]
 ### example
-`python run.py python main.py`
-`python run.py npm run dev`
-`python run.py`
+```python run.py python main.py```
+```python run.py npm run dev```
+```python run.py```
 
