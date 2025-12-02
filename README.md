@@ -10,10 +10,9 @@ it creates a ./logs folder at the current directory and makes a new txt file for
 python installed
 
 ## installation
-just download the run.py
-
+just download the run.py file
 ## usage
-python3 run.py [any type of command with args]
+`python3 run.py [any type of command with args]`
 ### examples
 - ```python run.py python main.py```
 - ```python run.py npm run dev```
