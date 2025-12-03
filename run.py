@@ -11,8 +11,8 @@ Features:
 - Creates the log directory automatically.
 
 Usage:
-    1. Run default command:   python logger.py
-    2. Run custom command:    python logger.py ping google.com
+    1. Run default command:   python run.py
+    2. Run custom command:    python run.py ping google.com
 """
 
 import sys
